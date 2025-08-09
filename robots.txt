@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /php/
+Disallow: /vendor/
+Disallow: /Aqua/
+Disallow: /*?*
+Disallow: /.php$
+Disallow: /.json$
+Disallow: /.pdf$
+Allow: .html$
+Allow: .png$
+Allow: .jpg$
+Sitemap: https://www.aerowave-tech.com/sitemap.xml
